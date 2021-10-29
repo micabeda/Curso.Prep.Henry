@@ -1,0 +1,18 @@
+Conceptos
+*Variables: son cajas que se usan para guardar datos.
+
+*Strings: son un tipo de dato, Se caracterizan por ser palabras, textos o cadena de caracteres. 
+Siempre van entre comillas.
+
+*Funciones (argumentos, `return`): Una función es un conjunto de instrucciones que se agrupan para realizar una tarea concreta y que se puede volver a usar. 
+Las funciones en se definen con la palabra function, seguida del nombre de la función, despues entre parentesis van los argumentos y por ultimo las llaves para encerrar todas las instrucciones que pertenecen la funcion.
+La funcion necesita datos de algunas variables para producir resultados. Las variables que necesitan las funciones se llaman argumentos. 
+las funciones no solo reciben variables y datos, también pueden devolver los valores que han calculado. 
+Para devolver valores dentro de una función, se utiliza la palabra return. 
+
+*Declaraciones `if`: IF es un condicional que sirve para realizar unas u otras operaciones en función de una expresión. 
+Si la condición se cumple se ejecutan todas las instrucciones. Si la condición no se cumple no se ejecuta ninguna instrucción y el programa continúa ejecutando el resto de instrucciones.
+
+*Valores booleanos (`true`, `false`): solo puede tener dos valores true o false. 
+Estas variables se usan para almacenar información del tipo sí / no, cumple / no cumple, verdadero / falso, existe / no existe, es decir, información que únicamente puede tener dos estados.
+Las variables booleanas normalmente se emplean para evaluar si se cumplen condiciones mediante instrucciones if else.
