@@ -1,0 +1,10 @@
+Conceptos
+* `for`
+La estructura for se utiliza para repetir una o más instrucciones, a esta repeticion se le llama bucle. 
+Se va a repetir hasta que la condicion especificada sea falsa.
+
+* `&&`, `||`, `!` : Son operadores logicos, el resultado de cualquier operación que utilice estos siempre es un valor lógico o booleano.
+ Son importantes para realizar aplicaciones complejas, ya que se usan para tomar decisiones sobre las instrucciones que va ejecutar el programa en función de ciertas condiciones.
+'&&' : obtiene su resultado combinando dos valores y su resultado solamente es verdadero (true) si los dos son verdaderos (true).
+'||' : también combina dos valores y su resultado es verdadero (true) si alguno de los dos operandos es verdadero (true).
+'!' : Se usa para obtener el valor contrario al valor de la variable.
