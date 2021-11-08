@@ -1,0 +1,2 @@
+Concepto
+- Array: Es una coleccion de datos, estos pueden ser strings, numeros, booleanos, funciones entre otros.
